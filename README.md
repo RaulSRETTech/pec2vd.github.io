@@ -2,7 +2,6 @@
 repositorio github para PEC2 asignatura visualización de datos
 
 Representación Scaterplot 
-
 ![Imagen 1](./representación1.jpg)
 
 Representación diagrama de Voronoy
