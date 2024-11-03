@@ -1,7 +1,7 @@
 # pec2vd.github.io
 repositorio github para PEC2 asignatura visualización de datos
 
-Enlace: https://raulsrettech.github.io/pec2vd.github.io/
+[Enlace:] (https://raulsrettech.github.io/pec2vd.github.io/)
 
 Representación Scaterplot 
 
